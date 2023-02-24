@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IGME105 HW - Ivan Hernandez/1.0.0": {
+        "runtime": {
+          "IGME105 HW - Ivan Hernandez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IGME105 HW - Ivan Hernandez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
